@@ -8,22 +8,28 @@ PFA the screenshots of the application below:
 <img src = "Screenshots/Erick(Driver App) (1).png">
 
 
-# How to run the project
+# Try it yourself
 
-## Clone the repo
-
+## 1. Clone and Install
 ```bash
-$ git clone https://github.com/ayush0801/E-Rick.git
+# Clone the repo
+git clone https://github.com/gaykov/minimal-quotes.git
+
+# Install dependencies
+yarn install
 ```
 
-## Install the dependencies
-
+## 2. Run it on iOS or Android
 ```bash
-$ yarn
+# Run on iOS
+yarn run:ios
+
+# Run on Android
+yarn run:android
 ```
 
-## Run the app
+# How can you help
+If you find any problems, feature requests, please open an issue or submit a fix as a pull request.
 
-```bash
-$ react-native run-android
-```
+# Want to talk?
+If you have any questions or you want us to help you design and develop your application, send us an email at [jha.4@iitj.ac.in](mailto:jha.4@iitj.ac.in)
