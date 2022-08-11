@@ -1,4 +1,4 @@
-# E-Rickshaw-Booking-App![Screenshot 2022-08-11 203223](https://user-images.githubusercontent.com/62278273/184165945-ea9a0c82-6a59-44f8-81d1-1bed56b60917.png)
+# E-Rickshaw-Booking-App![Screenshot 2022-08-11 203223]
 
 An android application for the booking of E-rickshaw at IIT Jodhpur(IITJ) campus is developed using React-Native
 
